@@ -1,8 +1,2 @@
 __pycache__/
 *.pyc
-*.gfx
-*.gfx.hdr
-*.gfx.ftr
-*.uexp
-!fonts_en.uexp
-!fonts-en.uexp
